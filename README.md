@@ -1,4 +1,4 @@
-*****Data Science Assignment: eCommerce Transactions Dataset******
+******Data Science Assignment: eCommerce Transactions Dataset******
 
 *Overview:*
 You are provided with an eCommerce Transactions dataset consisting of three files:
