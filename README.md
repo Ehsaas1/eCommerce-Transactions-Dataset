@@ -35,27 +35,24 @@ Files Description:
 
 **Assignment Tasks:**
 *Task 1:* Exploratory Data Analysis (EDA) and Business Insights
-1. Perform EDA on the provided dataset.
-2. Derive at least 5 business insights from the EDA.
-○ Write these insights in short point-wise sentences (maximum 100 words per
-insight).
-Deliverables:
-● A Jupyter Notebook/Python script containing your EDA code.
-● A PDF report with business insights (maximum 500 words).
+![image](https://github.com/user-attachments/assets/f230951b-f5b8-4cc6-914f-950fd85aca53)
+
+![image](https://github.com/user-attachments/assets/8726d9e6-4eca-4c9c-8008-4d886c06df70)
+
+![image](https://github.com/user-attachments/assets/cc8b44d5-d8cc-4bc0-a113-0844bd088c94)
+
+![image](https://github.com/user-attachments/assets/98aacae0-d620-4f1b-84d5-66140f8aa78f)
+
+![image](https://github.com/user-attachments/assets/ba036f86-a1bf-4b73-8bc2-085078922866)
+
 
 Task 2: Lookalike Model
 Build a Lookalike Model that takes a user's information as input and recommends 3 similar
 customers based on their profile and transaction history. The model should:
-● Use both customer and product information.
-● Assign a similarity score to each recommended customer.
-Deliverables:
-● Give the top 3 lookalikes with there similarity scores for the first 20 customers
-(CustomerID: C0001 - C0020) in Customers.csv. Form an “Lookalike.csv” which has
-just one map: Map<cust_id, List<cust_id, score>>
-● A Jupyter Notebook/Python script explaining your model development.
-Evaluation Criteria:
-● Model accuracy and logic.
-● Quality of recommendations and similarity scores.
+
+![image](https://github.com/user-attachments/assets/85059f0d-6501-4235-9997-a9af6a2ea943)
+
+![image](https://github.com/user-attachments/assets/94de4352-a70b-4d96-a532-68083c228975)
 
 
 Task 3: Customer Segmentation / Clustering
