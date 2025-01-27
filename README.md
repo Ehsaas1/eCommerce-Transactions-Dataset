@@ -1,7 +1,6 @@
-Data Science Assignment: eCommerce
-Transactions Dataset
+**Data Science Assignment: eCommerce Transactions Dataset**
 
-Overview:
+*Overview:*
 You are provided with an eCommerce Transactions dataset consisting of three files:
 Customers.csv, Products.csv, and Transactions.csv. Your task is to perform
 exploratory data analysis (EDA), build predictive models, and derive actionable insights. This
@@ -34,8 +33,8 @@ Files Description:
 ○ TotalValue: Total value of the transaction.
 ○ Price: Price of the product sold.
 
-Assignment Tasks:
-Task 1: Exploratory Data Analysis (EDA) and Business Insights
+**Assignment Tasks:**
+*Task 1:* Exploratory Data Analysis (EDA) and Business Insights
 1. Perform EDA on the provided dataset.
 2. Derive at least 5 business insights from the EDA.
 ○ Write these insights in short point-wise sentences (maximum 100 words per
